@@ -1,0 +1,1 @@
+# simple-plugin-wordpress-slugify-shortcode
